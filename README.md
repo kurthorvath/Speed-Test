@@ -1,3 +1,21 @@
+# **[OpenSpeedTest Research]**
+Hi this is a modification of OpenSpeedTest for Research purpose at the CUAS (Research Group 5G). Base Application is still managed by OpenSpeedTest™️ (thx)
+
+sample: http://194.182.186.159/openspeedtest/?dlduration=1&ulduration=1&mode=auto
+
+# Additional Features:
+1) Get Statistic Results in a file. After Running a test the results will be stored in a Txt file
+2) Test-Duration can be configured using URL parameters (see sample)
+3) Introduce Autostart-Mode (URL parameter) (todo)
+
+# Sample Output:
+PI... Ping
+JI... Jitter
+UL... Upload
+DL... Download
+![image](https://user-images.githubusercontent.com/15867392/132992836-e65861f2-4b75-473e-90de-81b5fc48573a.png)
+
+
 # **[OpenSpeedTest™️](https://openspeedtest.com)** -  Pure HTML5 Network Performance Estimation Tool.
 
 Hi! I'm [Vishnu](https://vishnu.pro) the one who developed **[OpenSpeedTest™️](https://openspeedtest.com)**. OpenSpeedTest use XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
