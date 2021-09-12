@@ -13,6 +13,8 @@ PI... Ping
 JI... Jitter
 UL... Upload
 DL... Download
+
+
 ![image](https://user-images.githubusercontent.com/15867392/132992836-e65861f2-4b75-473e-90de-81b5fc48573a.png)
 
 
