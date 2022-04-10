@@ -1,7 +1,7 @@
 # **[OpenSpeedTest Research]**
 Hi this is a modification of OpenSpeedTest for Research purpose at the CUAS (Research Group 5G). Base Application is still managed by OpenSpeedTest™️ (thx)
 
-sample: http://194.182.186.159/openspeedtest/?dlduration=1&ulduration=1&mode=auto
+sample: http://194.182.184.196:3000/
 
 # Additional Features:
 1) Get Statistic Results in a file. After Running a test the results will be stored in a Txt file
